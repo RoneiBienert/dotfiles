@@ -1,6 +1,6 @@
 [user]
-    name = Marcelo Lauxen
-    email = marcelolauxen16@gmail.com
+    name = Ronei Bienert
+    email = ronei.bienert.smo@gmail.com
 [credential]
     helper = "/mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
 [core]
@@ -56,6 +56,6 @@
     cma = commit --amend
     rh = reset --hard
 [github]
-    user = marcelolx
+    user = RoneiBienert
 [branch]
     autosetuprebase = always
