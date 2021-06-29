@@ -1,6 +1,6 @@
 [user]
     name = Ronei Bienert
-    email = ronei.bienert.smo@gmail.com
+    email = ronei.bienert@monde.com.br
 [credential]
     helper = "/mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
 [core]
